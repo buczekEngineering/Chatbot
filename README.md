@@ -1,4 +1,4 @@
-## Hardcoded Boulder Bot to answer questions of the bouldergym (climbinggym) customers
+## German speaking chatbot, who answers questions of bouldergym visitors.
 based on simple multiclass classification with LSTM
 
 # Dataset 
