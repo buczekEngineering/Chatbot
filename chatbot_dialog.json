@@ -1,0 +1,219 @@
+{
+  "intents": [
+    {
+      "tag": "Hallo",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Koennte mir jemand helfen?",
+        "Hallo",
+        "Kannst du mir helfen?",
+        "Ich brauche Hilfe",
+        "Ich will mit jemanden reden"
+      ],
+      "responses": [
+        "Hi, wie kann ich Dir helfen!",
+        "Hallo, hier ist der Boulderhallen Bot! \n Wie kann ich Dir helfen? "
+      ]
+    },
+    {
+      "tag": "Abschied",
+      "patterns": [
+        "Ciao",
+        "Auf Wiedersehen",
+        "Mach es gut",
+        "Tschuess"
+      ],
+      "responses": [
+        "Ich wuensche Dir noch einen schoenen Tag",
+        "Auf Wiedersehen"
+      ]
+    },
+    {
+      "tag": "Bezahlen",
+      "patterns": [
+        "Wie kann ich bei Euch bezahlen?",
+        "Kann ich mit der Karte bezahlen?",
+        "Kann ich mit dem Bar bezahlen?",
+        "Wie kann ich bezahlen?",
+        "Kann ich mit EC Karte bezahlen? ",
+        "Kann man per Kredit Karte bezahlen?"
+      ],
+      "responses": [
+        "Wir akzeptieren neben Barzahlung auch alle gängigen EC-Karten. Bei unserem 12-Monatsabo kannst du bequem monatlich per Lastschrifteinzug zahlen."
+      ]
+    },
+    {
+      "tag": "Uhrzeit",
+      "patterns": [
+        "Wie sind eure Oeffnungszeiten?",
+        "Wann macht ihr auf?",
+        "Wann kann ich endlich mal bouldern?",
+        "Wann habt ihr geoeffnet?",
+        "Oeffnungszeiten"
+      ],
+      "responses": [
+        "Montags, Dienstags und Donnerstags: 14:00 - 23:00\n Mitwochs: 8:00 - 23:00.\n Freitags, Samstags und Sonntags: 10:00 - 23:00. \n An Feiertagen gelten sonder Öffnungszeiten."
+      ]
+    },
+    {
+      "tag": "Danke",
+      "patterns": [
+        "Danke",
+        "Vielen Dank fuer deine Hilfe",
+        "Danke Schoen",
+        "Das war hilfreich"
+      ],
+      "responses": [
+        "Gerne gechehen!\n Kann ich noch was für dich tun?",
+        "Gerne! Bei Fragen stehe ich jederzeit zur Verfügung!"
+      ]
+    },
+    {
+      "tag": "Klamotten",
+      "patterns": [
+        "Was soll ich bei bouldern anziehen",
+        "Klamotten",
+        "was zieht man so an beim bouldern",
+        "anziehen",
+        "Klamotten beim bouldern",
+        "Kleidung beim bouldern",
+        "Welche Kleidung beim bouldern"
+      ],
+      "responses": [
+        "Am besten bequeme Jogging-,oder Yogabekleidung anziehen, man muss sich gut bewegen können. \n Hosen, die über die Knie gehen sind für Anfänger nicht schlecht,\n da man als Einsteiger öfter mal die Wand streichelt."
+      ]
+    },
+    {
+      "tag": "Gefaehrlich",
+      "patterns": [
+        "Ist bouldern gefaehrlich?",
+        "Ist das gefaehrlich?",
+        "Kann man sich verletzen?",
+        "Ist eine Verlezungsgefahr",
+        "Risiko"
+      ],
+      "responses": [
+        " Wie alle Sportarten, bietet das Klettern auch Verletzungsgefahr.\n Durch richtiges Aufwaermen und Sturztraining kann man das geringe Risiko auf ein Minimum reduzieren. \n Alles spielt sich ueber eine Absprungmatte ab, damit man bei einem Sturz weich landet.\n Du solltest beim ersten mal aus verschiedenen Hoehen auf die Matte springen um ein Gefuehl fuer die Matte zu bekommen. "
+      ]
+    },
+    {
+      "tag": "Ausruehstung",
+      "patterns": [
+        "Kann ich mir die Ausruestung bei euch ausleihen",
+        "Ausruestung?",
+        "Brauche ich noch was?",
+        "Wird eine speciele Ausruestung benoetigt?",
+        "Kann ich Schuhe und Chalkbag ausleihen"
+      ],
+      "responses": [
+        " Ja, du kannst bei uns Kletterschuhe und Chalkbags inkl. Inhalt leihen"
+      ]
+    },
+    {
+      "tag": "Abos",
+      "patterns": [
+        "Habt ihr Abos oder Dauerkarten?",
+        "Gibt es Abos",
+        "Gibt es Dauerkarte?",
+        "Habt ihr 11 Karten?"
+      ],
+      "responses": [
+        " Ja, wir haben 11er-Karten und 6 oder 12 Monatsabos"
+      ]
+    },
+    {
+      "tag": "Hoehe",
+      "patterns": [
+        "Wie hoch sind die Boulderwaende",
+        "Wand Hoehe",
+        "hoch",
+        "Wie hoch bouldert man bei Euch"
+      ],
+      "responses": [
+        " Die Boulderwaende haben eine Hoehe von 3 – 4,5 Metern."
+      ]
+    },
+    {
+      "tag": "Wiegehts",
+      "patterns": [
+        "Wie geht es Dir?",
+        "Wie geht's ?",
+        "Hast du gute Laune?",
+        "Was geht ab"
+      ],
+      "responses": [
+        "Mir geht es gut, danke",
+        "Bei mir alles in Ordnung!"
+      ]
+    },
+    {
+      "tag": "Werbistdu",
+      "patterns": [
+        "wer bist du",
+        "was machst du hier",
+        "du?",
+        "Kannst du dich mal vorstellen?",
+        "stell dich bitte vor"
+      ],
+      "responses": [
+        " Ich bin der Boulderhallen Bot.\n Ich kann alle deine Fragen zum Theme Bouldern in der Schluesselstelle in Siegen beantworten!"
+      ]
+    },
+    {
+      "tag": "Beziehung",
+      "patterns": [
+        "Hast du eine Freundin",
+        "bist du verheiratet",
+        "Bist du im Beziehung"
+      ],
+      "responses": [
+        "Ich habe eine Beziehung zur Software.\n Aber richtig spannende Gespraeche fuehre ich nur mit dir!"
+      ]
+    },
+    {
+      "tag": "BotGoesBouldern",
+      "patterns": [
+        "boulderst du auch?",
+        "Wann gehst du bouldern",
+        "Kannst du selber bouldern?",
+        "Kann man mit dir bouldern"
+      ],
+      "responses": [
+        " Noch nicht, aber vielleicht arbeitet schon mein Programmierer an diesem Update!"
+      ]
+    },
+    {
+      "tag": "Abuse",
+      "patterns": [
+        "Du bist doof"
+      ],
+      "responses": [
+        "Ich bin eigentlich ziemlich clever"
+      ]
+    },
+    {
+      "tag": "Schwieriegkeitsgrad",
+      "patterns": [
+        "Welches Schwierigkeitsgrad",
+        "Schwierigkeitsgrad",
+        "Wie hard sieht die Boulder Skala aus?"
+      ],
+      "responses": [
+        "Insgesamt haben wir 8 Schwierigkeitsgrade – von Anfänger über Fortgeschrittene bis zu den Spezialisten.\n Jedem Schwierigkeitsgrad ist eine Farbe zugeordnet."
+      ]
+    },
+    {
+      "tag": "Kurse",
+      "patterns": [
+        "Ich moechte Technik Kurs buchen",
+        "Ich will ein Einsteiger Kurs buchen",
+        "Kann man bei Euch auch Kurse buchen?",
+        "Welche Kurse kann man bei euch machen"
+      ],
+      "responses": [
+        "Wie haben Technik Kurse und Einsteiger Kurse.\n  Vermittelt werden die Grundlagen der Bouldertechnik und ihr erfahrt erste Einblicke in das Training"
+      ]
+    }
+  ]
+}
